@@ -1,3 +1,3 @@
 ### LeetCode
 
-This is LeetCode repo. Keep it in mind that practice makes perfect!
+This is LeetCode sulotion repo. Keep it in mind that practice makes perfect!
